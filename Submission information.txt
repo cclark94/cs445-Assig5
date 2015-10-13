@@ -1,0 +1,58 @@
+CS 0445 Assignment Information Sheet
+ 
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:____Christian Clark__________________________ Assignment #: _____5_________
+
+Lecture Day and Time: _____Tu, Th 2:30______________________
+
+Recitation Day and Time: ___F 1:00______________________
+
+Program Due Date: ___4/10____________________
+
+Handed in Date: ___4/10____________________ 
+
+Source code (.java) file name(s):
+
+_____All of the files from Ramirez, plus ComparableBinaryTree.java______
+
+________________________________________________________________
+
+Compiled (.class) file name(s): ____All of the compiled files from Ramirez____
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: ___Yes__________ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: __Yes___________ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
